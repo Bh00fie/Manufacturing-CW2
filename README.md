@@ -19,16 +19,16 @@ The study aims to guide decisions for transitioning from Li-ion to Al-ion batter
 
 ### Environmental Impact Comparisons
 #### 1. Global Warming Potential (kg CO₂ eq)
-<img src="global_warming_(kg_co2_eq)_comparison.png" alt="Global Warming Comparison" width="600">
+<img src="Images/global_warming_(kg_co2_eq)_comparison.png" alt="Global Warming Comparison" width="600">
 
 #### 2. Energy Consumption (MJ)
-<img src="energy_(mj)_comparison.png" alt="Energy Comparison" width="600">
+<img src="Images/energy_(mj)_comparison.png" alt="Energy Comparison" width="600">
 
 #### 3. Acidification (kg SO₂ eq)
-<img src="acidification_(kg_so2_eq)_comparison.png" alt="Acidification Comparison" width="600">
+<img src="Images/acidification_(kg_so2_eq)_comparison.png" alt="Acidification Comparison" width="600">
 
 #### 4. Eutrophication (kg PO₄ eq)
-<img src="eutrophication_(kg_po4_eq)_comparison.png" alt="Eutrophication Comparison" width="600">
+<img src="Images/eutrophication_(kg_po4_eq)_comparison.png" alt="Eutrophication Comparison" width="600">
 
 ---
 
